@@ -44,3 +44,4 @@ fabric.properties
 # project
 Java/.idea
 Java/JavaThreading.iml
+/bin/
