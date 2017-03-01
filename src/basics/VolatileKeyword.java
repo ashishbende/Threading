@@ -1,3 +1,4 @@
+package basics;
 
 public class VolatileKeyword {
 	public static void main(String[] args) {

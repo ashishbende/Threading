@@ -1,3 +1,4 @@
+package basics;
 
 public class Basics {
 	// main thread

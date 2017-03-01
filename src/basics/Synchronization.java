@@ -1,3 +1,4 @@
+package basics;
 // Every object in java has a intrinsic/monitor lock (mutex)
 // Synchronized methods specifies to acquire the lock (behind the scene).
 
